@@ -40,7 +40,7 @@
 | 镜像站地址                            | 支持版本              | 免费额度 | 注册方式 | 稳定性 | 功能亮点                                         |
 |---------------------------------------|-----------------------|----------|----------|--------|--------------------------------------------------|
 | **[chat.yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| **[chat.lify.vip](https://www.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI助手、AI插件 |
+| **[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)**     | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI助手、AI插件 |
 | **[guide1.lanjing.ai](https://guide1.lanjing.ai)** | GPT-4, GPT-4o    | 有       | 扫码使用 | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南        |
 | **[yixiaai.cn](https://yixiaai.cn)**          | GPT-4, GPT-3.5        | 有       | 扫码使用 | ⭐⭐⭐⭐   | 各种 AI 工具，你想要的，这儿全都有             |
 | **[lanjing.ai](https://lanjing.ai)**           | GPT-3.5               | 有       | 扫码使用 | ⭐⭐⭐    | 使用简单，适合初学者                           |
